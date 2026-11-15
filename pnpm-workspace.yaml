@@ -11,7 +11,7 @@ catalog:
   '@types/lodash': ^4.14.195
   '@types/uuid': ^10.0.0
   '@types/xml2js': ^0.4.14
-  axios: 1.7.4
+  axios: 1.21.1
   basic-auth: 2.0.1
   callsites: 3.1.0
   chokidar: 4.0.1
@@ -27,7 +27,7 @@ catalog:
   uuid: 10.0.0
   xml2js: 0.6.2
   xss: 1.0.15
-  zod: 3.24.1
+  zod: 4.6.6
   '@langchain/core': 0.3.30
 
 catalogs:
@@ -42,7 +42,7 @@ catalogs:
     '@sentry/vue': ^8.33.1
     tsup: ^8.3.6
     typescript: ^5.6.2
-    vite: ^6.0.2
+    vite: ^6.4.5
     vite-plugin-dts: ^4.3.0
     vitest: ^3.0.5
     vitest-mock-extended: ^2.0.2
